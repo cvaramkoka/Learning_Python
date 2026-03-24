@@ -1,3 +1,4 @@
 DS- Data Science
 AI- Artificial Intelligence
 TCloudly- Think Cloudly
+Today is Monday
